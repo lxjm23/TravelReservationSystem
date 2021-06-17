@@ -1,0 +1,13 @@
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.Details.resources
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.Main.resources
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.Properties.Resources.resources
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.RoundTripTicket.resources
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.Ticket.resources
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.csproj.GenerateResource.cache
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\jmlop\source\repos\TravelReservationSystem\bin\Debug\TravelReservationSystem.exe.config
+C:\Users\jmlop\source\repos\TravelReservationSystem\bin\Debug\TravelReservationSystem.exe
+C:\Users\jmlop\source\repos\TravelReservationSystem\bin\Debug\TravelReservationSystem.pdb
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.exe
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.pdb
+C:\Users\jmlop\source\repos\TravelReservationSystem\obj\Debug\TravelReservationSystem.csprojAssemblyReference.cache
